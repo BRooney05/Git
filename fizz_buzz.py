@@ -17,3 +17,4 @@ def fizz_buzz(start, finish):
                 print('fizz')
             if num%5==0 or num_string.__contains__("5"):
                 print('buzz')
+    print('complete')
